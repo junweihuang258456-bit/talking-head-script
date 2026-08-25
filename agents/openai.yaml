@@ -1,0 +1,5 @@
+interface:
+  display_name: "真人口播创作"
+  short_description: "为内容创作者生成自然、像真人说话的个人 IP 口播稿"
+  default_prompt: "使用 $talking-head-script 把我的主题写成一条自然、没有 AI 腔的 60 秒口播。"
+
